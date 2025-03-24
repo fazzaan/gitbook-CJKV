@@ -1,12 +1,14 @@
 # Table of contents
 
-* [Untitled](README.md)
+* [Study Vietnamese with me](README.md)
 
 ## Methods
 
 * [How to learn tones](methods/how-to-learn-tones.md)
 * [Comparative study](methods/comparative-study.md)
 * [Native sound: Intentionality versus Mimickry](methods/native-sound-intentionality-versus-mimickry.md)
+* [Frequent places](methods/frequent-places.md)
+* [The Usual Suspects (Questions)](methods/the-usual-suspects-questions.md)
 
 ## Resources
 
